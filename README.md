@@ -1,6 +1,6 @@
 ### Hi there 👋
-😄 Pronouns: She/Her
-🌱 I’m currently learning website design
+- 😄 Pronouns: She/Her
+- 🌱 I’m currently learning website design
 
 <!--
 **Mega-Megan/Mega-Megan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
