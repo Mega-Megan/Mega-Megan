@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning website design
+- About: Hi, Im Megan. I am a undergraduate at Queens University
 
 <!--
 **Mega-Megan/Mega-Megan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
